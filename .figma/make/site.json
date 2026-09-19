@@ -1,0 +1,10 @@
+{
+  "description": "Converts markdown files and images into organized, readable content for seamless documentation and presentation, enhancing user productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
